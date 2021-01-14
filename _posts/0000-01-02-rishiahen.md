@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our secons slide!"
 ---
-Your text
+dont go anywhere
 Use the left arrow to go back!
